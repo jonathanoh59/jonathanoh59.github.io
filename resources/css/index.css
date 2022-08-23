@@ -1,4 +1,20 @@
-*{
+.sub-heading {
+  font-weight: bold;
+}
+
+.role-title {
+  text-align: left;
+}
+
+.job-duration {
+  text-align: right;
+}
+
+* {
   font-family: Helvetica;
   color: #004225;
+}
+
+table {
+  border: 1px solid black;
 }
