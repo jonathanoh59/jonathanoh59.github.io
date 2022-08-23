@@ -2,11 +2,13 @@
   font-weight: bold;
 }
 
-.role-title {
+.role-title,
+.project-title {
   text-align: left;
 }
 
-.job-duration {
+.job-duration,
+.project-duration {
   text-align: right;
 }
 
@@ -16,7 +18,6 @@
 }
 
 table,
-tr,
-td {
+tr {
   border: 1px solid black;
 }
