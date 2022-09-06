@@ -1,5 +1,6 @@
 .professional-experience,
-.university-experience {
+.university-experience,
+.independent-experience {
   padding-bottom: 50px;
 }
 
@@ -8,12 +9,14 @@
 }
 
 .role-title,
-.project-title {
+.project-title,
+.study-title {
   text-align: left;
 }
 
 .job-duration,
-.project-duration {
+.project-duration,
+.study-duration {
   text-align: right;
 }
 
