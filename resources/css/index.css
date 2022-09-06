@@ -40,3 +40,7 @@ td {
   text-overflow: ellipsis;
   word-wrap: break-word;
 }
+
+.education td {
+  text-align: center;
+}
