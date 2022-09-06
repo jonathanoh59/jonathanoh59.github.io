@@ -54,11 +54,18 @@ td {
 }
 
 .education td {
-  text-align: center;
   vertical-align: top;
 }
 
 .course-name {
   text-align: left;
-  vertical-align: top;
+}
+
+.course-dates {
+  text-align: right;
+}
+
+.course-grades,
+.course-location {
+  text-align: center;
 }
