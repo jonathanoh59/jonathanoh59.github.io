@@ -25,7 +25,17 @@
   color: #004225;
 }
 
-table,
+table {
+  border: 1px solid black;
+  table-layout: fixed;
+}
+
 tr {
   border: 1px solid black;
+}
+
+td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
 }
