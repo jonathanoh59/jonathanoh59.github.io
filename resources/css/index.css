@@ -27,7 +27,8 @@
 
 table {
   border: 1px solid black;
-  table-layout: fixed;
+  table-layout: auto;
+  width: 100%;
 }
 
 tr {
