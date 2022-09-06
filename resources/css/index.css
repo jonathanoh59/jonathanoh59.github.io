@@ -57,3 +57,8 @@ td {
   text-align: center;
   vertical-align: top;
 }
+
+.course-name {
+  text-align: left;
+  vertical-align: top;
+}
