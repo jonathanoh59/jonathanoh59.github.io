@@ -1,7 +1,20 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: url(https://jonathanoh59.github.io/resources/images/pixel-sun.jpg);
-  background-repeat: no-repeat;
+  background-image: linear-gradient(
+    rgb(37, 17, 28),
+    rgb(56, 15, 48),
+    rgb(79, 15, 81),
+    rgb(96, 15, 76),
+    rgb(247, 174, 1),
+    rgb(255, 133, 22),
+    rgb(255, 102, 42),
+    rgb(253, 51, 86),
+    rgb(195, 39, 78),
+    rgb(129, 39, 78),
+    rgb(30, 64, 73),
+    rgb(9, 69, 78),
+    rgb(23, 40, 50)
+  );
   background-size: auto;
 }
 
