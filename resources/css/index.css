@@ -45,7 +45,7 @@ body {
 
 .table-header-right {
   text-align: right;
-  padding: 1px 1px 1px 5px;
+  padding: 1px 1px 1px 1px;
 }
 
 .job-duration,
@@ -95,6 +95,7 @@ td {
 }
 
 .course-grades,
-.course-location {
+.course-location,
+.centre-text {
   text-align: center;
 }
