@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   background-image: url(https://jonathanoh59.github.io/resources/images/pixel-sun.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
 }
 
 .professional-experience,
@@ -43,7 +43,7 @@ body {
 
 * {
   font-family: Helvetica;
-  color: #004225;
+  color: white;
 }
 
 table {
