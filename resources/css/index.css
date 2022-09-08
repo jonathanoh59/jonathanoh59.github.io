@@ -1,7 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   background-image: url(https://jonathanoh59.github.io/resources/images/pokemon-background-image.jpg);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
 }
 
 .professional-experience,
