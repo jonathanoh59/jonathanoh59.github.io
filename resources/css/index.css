@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background-image: url("/resources/images/pokemon-background-image.jpg");
+  background-image: url("resources/images/pokemon-background-image.jpg");
   background-repeat: no-repeat;
 }
 
