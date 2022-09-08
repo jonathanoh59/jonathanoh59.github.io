@@ -1,3 +1,9 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url("/resources/images/pokemon-background-image.jpg");
+  background-repeat: no-repeat;
+}
+
 .professional-experience,
 .university-experience,
 .independent-experience {
@@ -16,6 +22,7 @@
 
 .table-header-left {
   text-align: left;
+  padding: 1px;
 }
 
 .table-header-centre {
@@ -24,6 +31,7 @@
 
 .table-header-right {
   text-align: right;
+  padding: 1px 1px 1px 5px;
 }
 
 .job-duration,
@@ -47,10 +55,17 @@ tr {
   border: 1px solid black;
 }
 
+th {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  padding: 1px;
+}
+
 td {
   overflow: hidden;
   text-overflow: ellipsis;
   word-wrap: break-word;
+  padding: 10px 0px;
 }
 
 .education td {
