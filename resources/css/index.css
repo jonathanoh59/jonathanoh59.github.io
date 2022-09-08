@@ -19,13 +19,14 @@ body {
 }
 
 .navigation a {
-  float: left;
-  background-color: rgb(23, 40, 50);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  background-color: rgb(255, 133, 22);
   position: relative;
   line-height: 30px;
   text-align: center;
-  margin: 15px;
-  padding: 0 5px;
 }
 
 .professional-experience,
