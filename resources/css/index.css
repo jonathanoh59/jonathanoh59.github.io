@@ -18,15 +18,16 @@ body {
   background-size: auto;
 }
 
-.navigation a {
-  display: inline;
+.navigation li {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+.navigation a {
+  display: inline-block;
   text-decoration: none;
   background-color: rgb(255, 133, 22);
   position: relative;
-  line-height: 30px;
   text-align: center;
 }
 
