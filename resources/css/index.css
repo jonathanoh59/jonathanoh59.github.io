@@ -19,12 +19,13 @@ body {
 }
 
 .navigation ul {
-  background-color: rgb(247, 174, 1);
   list-style: none;
   text-align: center;
 }
 .navigation li {
   float: left;
+  background-color: white;
+  color: black;
 }
 .navigation a {
   display: block;
