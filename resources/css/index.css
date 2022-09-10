@@ -18,17 +18,17 @@ body {
   background-size: auto;
 }
 
+.navigation ul {
+  background-color: rgb(247, 174, 1);
+}
 .navigation li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  float: left;
 }
 .navigation a {
-  display: inline-block;
+  display: block;
   text-decoration: none;
-  background-color: rgb(255, 133, 22);
-  position: relative;
   text-align: center;
+  padding: 8px;
 }
 
 .professional-experience,
