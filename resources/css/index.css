@@ -25,9 +25,9 @@ body {
 .navigation li {
   float: left;
   background-color: white;
-  color: black;
 }
 .navigation a {
+  color: black;
   display: block;
   text-decoration: none;
   text-align: center;
