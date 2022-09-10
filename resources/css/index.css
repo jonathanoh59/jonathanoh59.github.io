@@ -20,6 +20,8 @@ body {
 
 .navigation ul {
   background-color: rgb(247, 174, 1);
+  list-style: none;
+  text-align: center;
 }
 .navigation li {
   float: left;
@@ -28,7 +30,7 @@ body {
   display: block;
   text-decoration: none;
   text-align: center;
-  padding: 8px;
+  padding: 4px;
 }
 
 .professional-experience,
