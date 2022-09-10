@@ -24,7 +24,7 @@ body {
   text-align: center;
 }
 .navigation li {
-  float: left;
+  float: inherit;
 }
 .navigation a {
   display: block;
