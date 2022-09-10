@@ -24,7 +24,7 @@ body {
   text-align: center;
 }
 .navigation li {
-  display: inline;
+  float: none;
 }
 .navigation a {
   display: block;
